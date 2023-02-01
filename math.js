@@ -21,3 +21,4 @@ var khaberlists = ["apple", "banana", "COLA", "jam", "Braga"];
 khaberlists.pop("alu");
 
 console.log(khaberlists);
+
