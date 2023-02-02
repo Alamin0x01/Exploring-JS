@@ -9,5 +9,8 @@ console.log(typeof country);
 
 console.log(typeof age);
 
+console.log(friends.includes(6));
+console.log(friends.includes(42));
+
 
 console.log(Array.isArray(friends));
